@@ -3,3 +3,5 @@ texto de prueba sin relevancia para ejemplificar el aprendizaje de git y github
 Texto intermedio, realizado mediante cambios optativos al texto
 
 by me. 
+
+prueba auxiliar de rama
