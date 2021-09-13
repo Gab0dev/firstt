@@ -4,4 +4,4 @@ Texto intermedio, realizado mediante cambios optativos al texto
 
 by me. 
 
-master for life
+master should be main
