@@ -4,6 +4,6 @@ Texto intermedio, realizado mediante cambios optativos al texto
 
 by me. 
 
-prueba auxiliar de ramaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
 Ultima modificacion de la rama, para pasar a master
